@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá a todos!! 👋
 
-<!--
-**Felipe-F-Coelho/Felipe-F-Coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Eu sou Desenvolvedor de Software na linguagem Java.
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalho na CWI Software e desenvolvo aplicações na linguagem Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente ando estudando Boas Práticas de programação e me aprofundando em conceitos e soluções em CLOUD.
+
+👯 Procuro pessoas com o mesmo interesse que o meu, tenham atitudes positivas e que possam transmitir essa energia.
+
+### Quer entrar em contato comigo ou me conhecer melhor?
+
+<a href="https://www.linkedin.com/in/felipe-fa-coelho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+#### Fique a vontade de conhecer os projetos que já estudei e qualquer duvida pode me chamar
+
+![Felipe Coelho(Rods)'s github stats](https://github-readme-stats.vercel.app/api?username=Felipe-F-Coelho&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AFF)
